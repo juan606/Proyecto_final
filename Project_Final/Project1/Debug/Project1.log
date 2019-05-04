@@ -1,0 +1,4 @@
+﻿  main_prac07.cpp
+c:\users\jjuan\downloads\project_final\project1\main_prac07.cpp(441): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jjuan\downloads\project_final\project1\main_prac07.cpp(448): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Project1.vcxproj -> C:\Users\jjuan\Downloads\Project_Final\Debug\Project1.exe
